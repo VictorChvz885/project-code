@@ -8,3 +8,6 @@ Various parts of the code have been derived from the following:
 * <https://github.com/tve/mqboard/blob/master/mqtt_async/hello-world.py>
 * <https://github.com/peterhinch/micropython-mqtt>
 * <https://github.com/embedded-systems-design/external_pycopy-lib>
+
+The I2CMelody.zip file is the project from MPLAB
+The main.py is the code for the ESP32, along with the boot.py, config.py, pymakr.conf
